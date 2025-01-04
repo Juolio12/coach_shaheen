@@ -216,7 +216,7 @@ h2{
 }
 
 .main-sec-content a::after {
-    content: "Open with instagram";
+    content: "Open with whatsapp";
     position: absolute;
     font-size: .4em;
     font-weight: 600;
