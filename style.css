@@ -134,7 +134,8 @@ ul li a{
     display: flex;
     position: relative;
     flex-wrap: wrap;
-    background:url(imgs/clients/shahan-pc.jpg)no-repeat;
+    background-image:url(imgs/clients/shahan-pc.jpg);
+    background-repeat:no-repeat;
     
     background-position: center;
     background-attachment: fixed;
@@ -1071,20 +1072,14 @@ footer .f-flex2 .menu li a {
     .main{
         position: inherit;
         flex-direction: column-reverse;
-        background:url(imgs/clients/shahn-pc-1.JPG)no-repeat;
+        background-image:url(imgs/clients/shahn-pc-1.JPG);
+        background-repeat:no-repeat;
         background-size: contain;
     }
 
-    .img-main{
-        position: static;
-        max-width: 98%;
-        margin: 0 auto;
-    }
 
-    .main-img{
-        position: static;
-        max-width: 100%;
-    }
+
+
     .c1, .c2, .c3, .c4, .c5{
         position: static;
         width: 100%;
@@ -1115,23 +1110,14 @@ footer .f-flex2 .menu li a {
     .main{
         position: inherit;
         /* flex-direction: column-reverse; */
-        background:url(imgs/clients/shahan-1.JPG)no-repeat;
+        background-image:url(imgs/clients/shahan-1.JPG);
+        background-repeat:no-repeat;
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
     }
 
-    /* .main-img{
-        position: relative;
-        max-width: 232px;
-        left: calc(100% - 72%);
-    }
-
-    .img-main{
-        position: relative;
-        width: 100%;
-
-    } */
+    
 
     .main-sec-content{
         max-width: 70%;
@@ -1187,7 +1173,8 @@ footer .f-flex2 .menu li a {
 
     .main{
         
-        background:url(imgs/clients/shahan-1.JPG)no-repeat;
+        background-image:url(imgs/clients/shahan-1.JPG);
+        background-repeat:no-repeat;
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
