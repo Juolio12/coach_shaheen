@@ -312,6 +312,7 @@ table{
 table td{
     padding: 8px;
     text-align: center;
+    text-transform: capitalize;
 }
 
 
@@ -424,6 +425,7 @@ table td{
     justify-content: space-between;
     text-transform: uppercase;
     align-items: center;
+    flex-direction: row-reverse;
    
     
     
