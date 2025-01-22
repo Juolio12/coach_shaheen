@@ -1172,20 +1172,20 @@ footer .f-flex2 .menu li a {
 
     }
 
-    .img-main{
+/*     .img-main{
         position: static;
         max-width: 98%;
         margin: 0 auto;
-    }
+    } */
 
-    .main-img{
+/*     .main-img{
         position: static;
         max-width: 100%;
-    }
+    } */
 
     .main{
         
-       
+        background:url(imgs/clients/shahan-1.JPG)no-repeat;
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
