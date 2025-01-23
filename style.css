@@ -1114,7 +1114,7 @@ footer .f-flex2 .menu li a {
         background-repeat:no-repeat;
         background-size: cover;
         background-position: center;
-        background-attachment: fixed;
+        background-attachment: scroll;
     }
 
     
@@ -1177,7 +1177,7 @@ footer .f-flex2 .menu li a {
         background-repeat:no-repeat;
         background-size: cover;
         background-position: center;
-        background-attachment: fixed;
+        background-attachment: scroll;
     
     }
 
@@ -1465,7 +1465,7 @@ footer .f-flex2 .menu li a {
         background-repeat:no-repeat;
         background-size: cover;
         background-position: center;
-        background-attachment: fixed;
+        background-attachment: scroll;
     
     }
     
