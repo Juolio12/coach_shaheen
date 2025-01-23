@@ -1459,6 +1459,15 @@ footer .f-flex2 .menu li a {
     body{
         font-size: 0.7em;
     }
+    .main{
+        
+        background-image:url(imgs/clients/shaheen0.2.jpg);
+        background-repeat:no-repeat;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+    
+    }
     
 }
 @media(max-width:300px){
